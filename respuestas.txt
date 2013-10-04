@@ -77,4 +77,4 @@ RubJava
 52- yeld 5 es un bloque que puede ser llamado por su normbre, 5, lo mismo con yield 4
 53-
 54- ["hello", "world", "hello", "LPP"]
-55-
+55- crea un hash y lo separa por keys
